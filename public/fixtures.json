@@ -1,0 +1,9 @@
+[
+    {
+        "start" : {"minute": 25, "hour": 13, "day": 1, "month": 1},
+        "home-team" : "Brexit FC",
+        "away-team" : "Passion FC",
+        "score" : {"home-team" : "0", "away-team" : "0"},
+        "time" : 0
+    }
+]

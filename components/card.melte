@@ -1,0 +1,35 @@
+<div class="card">
+    <div id="home">Brexit FC</div>
+    <div id="vs">VS</div>
+    <div id="info">Kick-off at 13:00</div>
+    <div id="away">Passion FC</div>
+</div>
+
+<style>
+    .card {
+        position: relative;
+        border: 3px solid red;
+        padding: 2em;
+        border-radius: 1.5em;
+        display: flex;
+        align-items: center;
+    }
+    #home {
+        margin-right: auto;
+    }
+    #away {
+        margin-left: auto;
+    }
+    #vs {
+        margin: auto;
+    }
+    #info {
+        position: absolute;
+        right: 50%;
+        bottom: 0.1em;
+        color: grey;
+        font-size: smaller;
+        font-weight: lighter;
+        transform: translateX(50%);
+    }
+</style>

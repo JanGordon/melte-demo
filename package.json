@@ -1,0 +1,12 @@
+{
+  "name": "melte-test-proejct",
+  "version": "1.0.0",
+  "description": "",
+  "main": "j.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tauri": "tauri"
+  },
+  "author": "",
+  "license": "ISC"
+}
