@@ -7,3 +7,5 @@ A demo for the melte-framework
   cd melte-demo
   melte dev 8080
   
+Go to http://localhost:8080
+  
